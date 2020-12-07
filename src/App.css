@@ -1,0 +1,9 @@
+.jumbotron {
+  background-color: rgb(34, 132, 156);
+  color: rgb(238, 238, 238);
+  padding: 100px 0px;
+  text-align: center;
+}
+.brand-icon{
+  font-size: 50px;
+}
